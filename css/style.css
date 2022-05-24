@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+body {
+    font: 20px Arial, Helvetica, sans-serif;
+}
+
 .navbar {
     background-color: green;
+}
+
+.quem-somos {
+    background-color: aqua;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
