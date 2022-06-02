@@ -1,2 +1,25 @@
 @charset "UTF-8";
 
+body {
+    background-color: #F8F8F8;
+}
+
+/* FORM */ 
+
+#form-container {
+    background-color: #FFF;
+    border-radius: 20px;
+    box-shadow: .5px 10px 15px rgba(0, 0, 0, .2);
+    margin: 25px auto;
+    padding: 25px;
+}
+
+#form-container h2 {
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+#form-container a {
+    color: #222;
+    transition: 0.5;
+}
